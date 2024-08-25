@@ -1,10 +1,10 @@
 [project]
-name = "perftrackergt_elprogramadorgt"
-version = "0.0.1"
+name = "perftrackergt"
+version = "1.0.0"
 authors = [
   { name="Eduardo", email="elprogramadorgt8@gmail.com" },
 ]
-description = "Displays execution time and memory usage."
+description = "Measures total execution time and memory usage. This module tests a function, providing the execution duration, initial memory footprint, and peak memory consumption throughout its run."
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
